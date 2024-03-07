@@ -1,1 +1,1 @@
-# Bioinformatics_Course
+# Advanced Bioinformatics 2024
